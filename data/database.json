@@ -1,0 +1,289 @@
+{
+  "users": [
+    {
+      "id": "usr-seed-1",
+      "email": "user@123",
+      "password": "user@123",
+      "name": "VIP Host",
+      "avatar": "👑",
+      "createdAt": "2026-09-13T09:51:46.126Z"
+    },
+    {
+      "id": "usr-1789293410787-m0mtoz",
+      "email": "host_1789293410779@test.com",
+      "password": "password123",
+      "name": "Kabir Roy",
+      "avatar": "🪔",
+      "createdAt": "2026-09-13T09:56:50.788Z"
+    }
+  ],
+  "events": [
+    {
+      "_id": "evt-1789296022504-erhka0",
+      "slug": "midnight-jazz-acoustic-jam-nizs",
+      "hostKey": "hk-cj53ig2dsf",
+      "title": "Midnight Jazz & Acoustic Jam",
+      "hostName": "Dev & Nina",
+      "description": "Plug in or chill out. An unplugged jam session with electric guitars, bongo drums, and impromptu vocals. Free flowing brews on tap.",
+      "dateTime": {
+        "startTime": "2026-09-18T10:40:22.484Z",
+        "timezone": "Asia/Calcutta"
+      },
+      "location": {
+        "name": "The Acoustic Basement Studio",
+        "address": "The Acoustic Basement Studio, City Center",
+        "doorCode": "Rooftop doorbell or ring Dev",
+        "byobNote": "Artisanal drinks provided • BYOB welcome",
+        "hideUntilRsvp": true
+      },
+      "theme": {
+        "presetId": "theme-royal-marigold",
+        "posterUrl": "/media/img2.jpeg"
+      },
+      "customization": {
+        "seal": {
+          "id": "seal-peacock",
+          "name": "Mor Pankh (Peacock)",
+          "icon": "🦚",
+          "category": "mehfil"
+        },
+        "framingBorder": {
+          "id": "border-gold-zari",
+          "name": "Gold Zari Lace",
+          "cssClass": "frame-gold-zari"
+        },
+        "dressCode": {
+          "id": "black-tie",
+          "title": "Black Tie & Golden Hour",
+          "icon": "👔",
+          "category": "birthday"
+        },
+        "rsvpOptions": {
+          "yes": {
+            "emoji": "🎵",
+            "title": "Jamming With You",
+            "sub": "Will bring gear"
+          },
+          "maybe": {
+            "emoji": "",
+            "title": "Listener Seat",
+            "sub": "Tentative"
+          },
+          "no": {
+            "emoji": "👋",
+            "title": "Catch Next Set",
+            "sub": "Can't make it"
+          }
+        },
+        "soundFreqs": [
+          164.81,
+          207.65,
+          246.94
+        ],
+        "effect": "stardust",
+        "vibeTag": "Indie Gig / Jam",
+        "coverImage": "/media/img2.jpeg"
+      },
+      "hostEmail": "guest@havan.studio",
+      "guestCount": 1,
+      "createdAt": "2026-09-13T10:40:22.504Z"
+    },
+    {
+      "_id": "evt-1789293410804-hh6dnv",
+      "slug": "midnight-ghazal-chai-terrace-3jsk",
+      "hostKey": "hk-mygvigzf0xq",
+      "title": "Midnight Ghazal & Chai Terrace",
+      "hostName": "VIP Host",
+      "description": "Soulful evening under fairy lights.",
+      "location": {
+        "name": "Lotus Terrace",
+        "address": "Plot 44, Hauz Khas",
+        "doorCode": "CODE: #8800"
+      },
+      "hostEmail": "user@123",
+      "guestCount": 1,
+      "createdAt": "2026-09-13T09:56:50.804Z"
+    },
+    {
+      "_id": "evt-sufi-qawwali",
+      "slug": "sufi-qawwali-night",
+      "title": "Chishtia Sufi & Qawwali Night",
+      "subtitle": "Candlelit courtyards, ecstatic poetry & mystic chants",
+      "hostName": "Hazrat Khusro Foundation",
+      "hostEmail": "user@123",
+      "description": "An evening honoring Amir Khusro and Bulleh Shah. Live harmonium, dholak, and communal saffron tea under strings of marigolds.",
+      "dateTime": {
+        "startTime": "2026-11-12T19:30:00.000Z",
+        "dateString": "Thursday, Nov 12",
+        "timeString": "7:30 PM — Midnight",
+        "timezone": "Asia/Kolkata"
+      },
+      "location": {
+        "name": "The Red Sandstone Haveli Courtyard",
+        "address": "Brass Gate #1, Heritage Quarter, Old Delhi",
+        "doorCode": "CODE: #7721 — Knock 3 times at Brass Gate",
+        "byobNote": "Communal saffron tea & artisanal sherbet provided",
+        "hideUntilRsvp": true
+      },
+      "theme": {
+        "presetId": "theme-royal-marigold",
+        "posterUrl": "/media/img5.jpeg"
+      },
+      "customization": {
+        "category": "mehfil",
+        "vibeTag": "Sufi Mehfil",
+        "seal": {
+          "id": "seal-lotus",
+          "name": "Kamal (Lotus Crest)",
+          "icon": "🪷",
+          "category": "mehfil"
+        },
+        "framingBorder": {
+          "id": "border-mughal",
+          "name": "Mughal Jali Arch",
+          "cssClass": "frame-mughal"
+        },
+        "dressCode": {
+          "id": "raw-silk",
+          "title": "Raw Silk, Kurta & Bohemia",
+          "icon": "👘",
+          "category": "mehfil"
+        },
+        "rsvpOptions": {
+          "yes": {
+            "emoji": "🪔",
+            "title": "Hazir Hain",
+            "sub": "Confirmed Attending"
+          },
+          "maybe": {
+            "emoji": "🌸",
+            "title": "Koshish Karenge",
+            "sub": "Tentative"
+          },
+          "no": {
+            "emoji": "🙏",
+            "title": "Shubhkamnayein",
+            "sub": "With you in spirit"
+          }
+        },
+        "soundFreqs": [
+          146.83,
+          220,
+          293.66
+        ],
+        "effect": "stardust",
+        "coverImage": "/media/img5.jpeg"
+      },
+      "guestCount": 48,
+      "createdAt": "2026-09-13T09:51:46.126Z"
+    },
+    {
+      "_id": "evt-disco-house",
+      "slug": "disco-house-party",
+      "title": "Groovy Retro House Jam",
+      "subtitle": "Vinyl records, disco lights & late night energy",
+      "hostName": "Aarav & Maya",
+      "hostEmail": "user@123",
+      "description": "We are clearing out the living room for a full vinyl DJ set, punch bowls, and 70s strobe lights. BYOB encouraged, good vibes mandatory.",
+      "dateTime": {
+        "startTime": "2026-11-14T20:30:00.000Z",
+        "dateString": "Saturday, Nov 14",
+        "timeString": "8:30 PM till sunrise",
+        "timezone": "Asia/Kolkata"
+      },
+      "location": {
+        "name": "The Secret Loft & Terrace",
+        "address": "4th Floor, Skyline Penthouse, 742 Evergreen Blvd",
+        "doorCode": "CODE: #9042 — Dial #402 at front gate elevator",
+        "byobNote": "Artisanal punch provided • BYOB welcome",
+        "hideUntilRsvp": true
+      },
+      "theme": {
+        "presetId": "theme-retro-disco",
+        "posterUrl": "/media/img3.jpeg"
+      },
+      "customization": {
+        "category": "happyhours",
+        "vibeTag": "Happy Hours",
+        "seal": {
+          "id": "seal-disco",
+          "name": "Disco Mirrorball",
+          "icon": "🪩",
+          "category": "happyhours"
+        },
+        "framingBorder": {
+          "id": "border-cyber",
+          "name": "Cyber Neon Rim",
+          "cssClass": "frame-cyber"
+        },
+        "dressCode": {
+          "id": "retro-flare",
+          "title": "Retro 70s Flare & Glitter",
+          "icon": "🕺",
+          "category": "happyhours"
+        },
+        "rsvpOptions": {
+          "yes": {
+            "emoji": "🍾",
+            "title": "Hell Yeah!",
+            "sub": "Count me in"
+          },
+          "maybe": {
+            "emoji": "🍹",
+            "title": "Pulling Up Late",
+            "sub": "Tentative"
+          },
+          "no": {
+            "emoji": "😴",
+            "title": "FOMO Sleeping",
+            "sub": "Can't make it"
+          }
+        },
+        "soundFreqs": [
+          130.81,
+          164.81,
+          196
+        ],
+        "effect": "stardust",
+        "coverImage": "/media/img3.jpeg"
+      },
+      "guestCount": 38,
+      "createdAt": "2026-09-13T09:51:46.126Z"
+    }
+  ],
+  "rsvps": [
+    {
+      "id": "rsvp-1789293410815-zd8i38",
+      "eventId": "evt-1789293410804-hh6dnv",
+      "eventSlug": "midnight-ghazal-chai-terrace-3jsk",
+      "guestName": "Aarav",
+      "contact": "aarav@music.in",
+      "rsvpStatus": "going",
+      "dietaryNotes": "",
+      "plusOnes": 2,
+      "timestamp": "2026-09-13T09:56:50.815Z"
+    },
+    {
+      "id": "rsvp-seed-1",
+      "eventId": "evt-sufi-qawwali",
+      "eventSlug": "sufi-qawwali-night",
+      "guestName": "VIP Host",
+      "contact": "user@123",
+      "rsvpStatus": "going",
+      "dietaryNotes": "Chai lover",
+      "plusOnes": 1,
+      "timestamp": "2026-09-13T09:51:46.126Z"
+    }
+  ],
+  "comments": [
+    {
+      "id": "cmt-1",
+      "eventId": "evt-sufi-qawwali",
+      "authorName": "Rohan Deshmukh",
+      "authorContact": "rohan@deshmukh.in",
+      "avatarEmoji": "🪷",
+      "message": "So thrilled for this acoustic session! Bringing two boxes of saffron sweets.",
+      "timestamp": "2026-09-13T09:51:46.126Z"
+    }
+  ]
+}
